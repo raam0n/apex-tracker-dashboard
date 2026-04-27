@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T22:29:06.221Z",
+    "image": "match_1777328942276.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nParty Leader Decides Requeue\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #10\r\nTOTAL KILLS WITH SQUAD 1\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n429\r\nSurvival Time\r\n6:33\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n367\r\nSurvival Time\r\n6:44\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nwebber\r\nKills / Assists / Knobs\r\n1/0/2\r\nDamage Dealt\r\n299\r\nSurvival Time\r\n6:44\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\nID:16045689988584884956\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "10",
+      "totalKills": "1",
+      "totalDamage": "1095"
+    },
+    "squad": [
+      {
+        "name": "El amigable tio Pencil",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "1",
+        "damage": "429",
+        "survivalTime": "6:33",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "1",
+        "knocks": "0",
+        "damage": "367",
+        "survivalTime": "6:44",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "webber",
+        "kills": "1",
+        "assists": "0",
+        "knocks": "2",
+        "damage": "299",
+        "survivalTime": "6:44",
+        "revives": "1",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T22:15:17.798Z",
     "image": "match_1777328113842.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking Trios. 20 Players in Queue...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #9\r\nTOTAL KILLS WITH SQUAD 6\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n2/1/2\r\nDamage Dealt\r\n521\r\nSurvival Time\r\n3:29\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n3/1/3\r\nDamage Dealt\r\n439\r\nSurvival Time\r\n3:29\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\n\r\nwebber\r\nKills / Assists / Knobs\r\n1/3/1\r\nDamage Dealt\r\n95\r\nSurvival Time\r\n3:29\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\nID:16045689988584884956\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
