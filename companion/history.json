@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T23:55:45.379Z",
+    "image": "match_1777334141611.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Requeue Party of 2\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #4\r\nTOTAL KILLS WITH SQUAD 7\r\n\r\nStella Bella\r\nKills / Assists / Knocks\r\n4/2/4\r\nDamage Dealt\r\n1,306\r\nSurvival Time\r\n14:11\r\nRevive Given\r\n0\r\nRespawn Given\r\n2\r\n\r\nID:16045689980142357568\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n3/0/4\r\nDamage Dealt\r\n773\r\nSurvival Time\r\n13:15\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n455\r\nSurvival Time\r\n9:28\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\n4.1002219.10946240:4e8b910d\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "4",
+      "totalKills": "7",
+      "totalDamage": "2534"
+    },
+    "squad": [
+      {
+        "name": "Stella Bella",
+        "kills": "4",
+        "assists": "2",
+        "knocks": "4",
+        "damage": "1306",
+        "survivalTime": "14:11",
+        "revives": "0",
+        "respawns": "2"
+      },
+      {
+        "name": "ramOn",
+        "kills": "3",
+        "assists": "0",
+        "knocks": "4",
+        "damage": "773",
+        "survivalTime": "13:15",
+        "revives": "2",
+        "respawns": "0"
+      },
+      {
+        "name": "El amigable tio Pencil",
+        "kills": "0",
+        "assists": "1",
+        "knocks": "0",
+        "damage": "455",
+        "survivalTime": "9:28",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T23:39:20.641Z",
     "image": "match_1777333157079.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n2 Requeue with Squad\r\n1 Requeue Party of 2\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #10\r\nTOTAL KILLS WITH SQUAD 1\r\n\r\nPenguin\r\nKills / Assists / Knocks\r\n1/0/1\r\nDamage Dealt\r\n290\r\nSurvival Time\r\n8:14\r\nRevive Given\r\n0\r\nRespawn Given\r\n1\r\n\r\nramOn\r\nKills / Assists / Knock\r\n0/1/1\r\nDamage Dealt\r\n203\r\nSurvival Time\r\n8:03\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n441\r\nSurvival Time\r\n8:58\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689976900250033\r\n\r\nID:16045689979026953948\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
