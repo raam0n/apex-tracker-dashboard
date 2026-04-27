@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T04:06:55.038Z",
+    "image": "match_1777262811027.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nParty Leader Decides Requeue\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #9\r\nTOTAL KILLS WITH SQUAD 3\r\n\r\nZven_W\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n242\r\nSurvival Time\r\n7:57\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689959202917149\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n2/1/2\r\nDamage Dealt\r\n404\r\nSurvival Time\r\n7:57\r\nRevive Given\r\n0\r\nRespawn Given\r\n1\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n1/2/3\r\nDamage Dealt\r\n837\r\nSurvival Time\r\n7:57\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\n4:1002219.10946240:ebfe9163\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "9",
+      "totalKills": "3",
+      "totalDamage": "1483"
+    },
+    "squad": [
+      {
+        "name": "Zven_W",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "242",
+        "survivalTime": "7:57",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "2",
+        "assists": "1",
+        "knocks": "2",
+        "damage": "404",
+        "survivalTime": "7:57",
+        "revives": "0",
+        "respawns": "1"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "1",
+        "assists": "2",
+        "knocks": "3",
+        "damage": "837",
+        "survivalTime": "7:57",
+        "revives": "1",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T03:56:14.654Z",
     "image": "match_1777262170646.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nParty Leader Decides Requeue\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #9\r\nTOTAL KILLS WITH SQUAD 10\r\n\r\nx1P4NDA\r\nKills / Assists / Knocks\r\n7/1/7\r\nDamage Dealt\r\n1,439\r\nSurvival Time\r\n10:01\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\nID:16045689981237028082\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n2/3/2\r\nDamage Dealt\r\n523\r\nSurvival Time\r\n10:01\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n1/1/1\r\nDamage Dealt\r\n531\r\nSurvival Time\r\n9:39\r\nRevive Given\r\n1\r\nRespawn Given\r\n1\r\n\r\nID:16045689979824108792\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
