@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T22:46:55.702Z",
+    "image": "match_1777330013134.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES.20 Players in Queue...\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #3\r\nTOTAL KILLS WITH SQUAD 11\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n2/0/3\r\nDamage Dealt\r\n502\r\nSurvival Time\r\n14:11\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n6/3/6\r\nDamage Dealt\r\n1,619\r\nSurvival Time\r\n15:03\r\nRevive Given\r\n0\r\nRespawn Given\r\n\r\nEL AMIGABLE TIO PENCIL\r\nF View Profile\r\nSend Friend Request\r\n\r\nwebber\r\nKills / Assists / Knocks\r\n3/3/4\r\nDamage Dealt\r\n1,004\r\nSurvival Time\r\n15:03\r\nRevive Given\r\n4\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\nID:16045689988584884956\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "3",
+      "totalKills": "11",
+      "totalDamage": "3125"
+    },
+    "squad": [
+      {
+        "name": "El amigable tio Pencil",
+        "kills": "2",
+        "assists": "0",
+        "knocks": "3",
+        "damage": "502",
+        "survivalTime": "14:11",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "6",
+        "assists": "3",
+        "knocks": "6",
+        "damage": "1619",
+        "survivalTime": "15:03",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "webber",
+        "kills": "3",
+        "assists": "3",
+        "knocks": "4",
+        "damage": "1004",
+        "survivalTime": "15:03",
+        "revives": "4",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T22:46:34.258Z",
     "image": "match_1777329990635.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #3\r\nTOTAL KILLS WITH SQUAD 11\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n2/0/3\r\nDamage Dealt\r\n502\r\nSurvival Time\r\n14:11\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n6/3/6\r\nDamage Dealt\r\n1,619\r\nSurvival Time\r\n15:03\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nwebber\r\nKills / Assists / Knobs\r\n3/3/4\r\nDamage Dealt\r\n1,004\r\nSurvival Time\r\n15:03\r\nRevive Given\r\n4\r\nRespawn Given\r\n0\r\n\r\nID:16045689988584884956\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
