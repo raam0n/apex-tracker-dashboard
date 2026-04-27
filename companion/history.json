@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T04:20:12.606Z",
+    "image": "match_1777263608923.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES. 17 Players in Queue...\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #18\r\nTOTAL KILLS WITH SQUAD 0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n223\r\nSurvival Time\r\n2:37\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n172\r\nSurvival Time\r\n2:22\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nDraco\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n48\r\nSurvival Time\r\n2:38\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nID:16045690983539078018\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "18",
+      "totalKills": "0",
+      "totalDamage": "443"
+    },
+    "squad": [
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "1",
+        "damage": "223",
+        "survivalTime": "2:37",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "172",
+        "survivalTime": "2:22",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "Draco",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "48",
+        "survivalTime": "2:38",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T04:20:04.288Z",
     "image": "match_1777263600206.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nChecking for party members...\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #18\r\nTOTAL KILLS WITH SQUAD 0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n223\r\nSurvival Time\r\n2:37\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n172\r\nSurvival Time\r\n2:22\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nDraco\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n48\r\nSurvival Time\r\n2:38\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045690983539078018\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
