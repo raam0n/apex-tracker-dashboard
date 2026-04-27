@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-27T03:31:02.494Z",
+    "image": "match_1777260658459.jpg",
+    "rawText": "\r\n# MATCH SUMMARY\r\n\r\n**SQUAD PLACED #2**\r\n**TOTAL KILLS WITH SQUAD 6**\r\n\r\n**Rude Man Who Shushes**\r\n\r\n- Kills / Assists / Knocks: 1/2/1\r\n- Damage Dealt: 429\r\n- Survival Time: 17:09\r\n- Revive Given: 2\r\n- Respawn Given: 0\r\n\r\n**ramOn**\r\n\r\n- Kills / Assists / Knocks: 3/2/3\r\n- Damage Dealt: 1,061\r\n- Survival Time: 17:10\r\n- Revive Given: 2\r\n- Respawn Given: 0\r\n\r\n**[SL] RayMalubi**\r\n\r\n- Kills / Assists / Knocks: 2/1/2\r\n- Damage Dealt: 411\r\n- Survival Time: 17:10\r\n- Revive Given: 1\r\n- Respawn Given: 0\r\n\r\nID:16045689976772847482\r\n\r\nID:16045689979824108792\r\n\r\nSPACE Proceed TAB Return to Lobby ESC Open Menu",
+    "results": {
+      "placement": "2",
+      "totalKills": "6",
+      "totalDamage": "1901"
+    },
+    "squad": [
+      {
+        "name": "Rude Man Who Shushes",
+        "kills": "1",
+        "assists": "2",
+        "knocks": "1",
+        "damage": "429",
+        "survivalTime": "17:09",
+        "revives": "2",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "3",
+        "assists": "2",
+        "knocks": "3",
+        "damage": "1061",
+        "survivalTime": "17:10",
+        "revives": "2",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "2",
+        "assists": "1",
+        "knocks": "2",
+        "damage": "411",
+        "survivalTime": "17:10",
+        "revives": "1",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-27T03:09:50.565Z",
     "image": "match_1777259386640.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nRequeue Unavailable: Ranked Ladder has ended\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #5\r\nTOTAL KILLS WITH SQUAD 9\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n2/2/5\r\nDamage Dealt\r\n1,950\r\nSurvival Time\r\n17:12\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n2/6/2\r\nDamage Dealt\r\n1,595\r\nSurvival Time\r\n17:12\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n5/2/6\r\nDamage Dealt\r\n996\r\nSurvival Time\r\n17:12\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\n4.1002219.10946240.f31befa7\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
