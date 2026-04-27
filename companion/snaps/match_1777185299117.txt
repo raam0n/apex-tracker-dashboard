@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+Party Leader Decides Requeue
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #16
+TOTAL KILLS WITH SQUAD 0
+
+webber
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+202
+Survival Time
+2:56
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knobs
+0/0/0
+Damage Dealt
+0
+Survival Time
+1:10
+Revive Given
+0
+Respawn Given
+0
+
+Jnioms
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+60
+Survival Time
+2:57
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689988584884956
+
+ID:16045690983639607226
+
+4.1002219.10946240:a3f2b85a
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

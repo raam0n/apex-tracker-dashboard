@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 3
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #3
+TOTAL KILLS WITH SQUAD 7
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+2/2/2
+Damage Dealt
+574
+Survival Time
+14:18
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knock
+1/4/2
+Damage Dealt
+1,176
+Survival Time
+14:18
+Revive Given
+0
+Respawn Given
+1
+
+Lt. Col. Syyid Al-Massad [Bot]
+Kills / Assists / Knocks
+4/2/4
+Damage Dealt
+914
+Survival Time
+14:18
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983723303164
+
+4.1002219.10933301.8e6e19f2
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

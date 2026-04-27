@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #18
+TOTAL KILLS WITH SQUAD 1
+
+[SL] RayMalu
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+234
+Survival Time
+2:32
+Revive Given
+0
+Respawn Given
+0
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+0/1/0
+Damage Dealt
+242
+Survival Time
+2:32
+Revive Given
+0
+Respawn Given
+0
+ID:16045690983639607226
+
+Invisible Drax
+Kills / Assists / Knocks
+0/1/0
+Damage Dealt
+7
+Survival Time
+2:29
+Revive Given
+0
+Respawn Given
+0
+ID:16045690983639607226
+
+4:1002219:10946240:4e5fb7b6
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

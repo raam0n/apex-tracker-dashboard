@@ -1,0 +1,49 @@
+
+# SQUAD ELIMINATED
+
+SQUAD PLACED #17
+TOTAL KILLS WITH SQUAD 1
+
+[SL] RayMalu
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+0
+Survival Time
+2:12
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+334
+Survival Time
+2:12
+Revive Given
+2
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/1/0
+Damage Dealt
+203
+Survival Time
+2:11
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu

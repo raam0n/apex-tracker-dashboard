@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued Solo
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #6
+TOTAL KILLS WITH SQUAD 10
+
+BottomBud
+Kills / Assists / Knocks
+5/1/5
+Damage Dealt
+1,606
+Survival Time
+15:25
+Revive Given
+2
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+1/1/2
+Damage Dealt
+811
+Survival Time
+15:24
+Revive Given
+0
+Respawn Given
+0
+
+[KIKI] VantaKenBi
+Kills / Assists / Knobs
+4/5/4
+Damage Dealt
+1,742
+Survival Time
+15:25
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689980200445847
+
+ID:16045689975046005832
+
+4.1002219.10946240.b9287ad9
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

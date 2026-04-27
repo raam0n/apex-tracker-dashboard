@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+Party Leader Decides Requeue
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #20
+TOTAL KILLS WITH SQUAD 0
+
+[SL] RayMalu
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+19
+Survival Time
+1:15
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+210
+Survival Time
+1:15
+Revive Given
+0
+Respawn Given
+0
+
+webber
+Kills / Assists / Knobs
+0/0/0
+Damage Dealt
+43
+Survival Time
+1:15
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ID:16045689988584884956
+
+4:1002219.10946240:4e08a192
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

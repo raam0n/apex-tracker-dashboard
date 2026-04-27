@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #17
+TOTAL KILLS WITH SQUAD 0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+62
+Survival Time
+2:16
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knock
+0/0/0
+Damage Dealt
+24
+Survival Time
+2:16
+Revive Given
+0
+Respawn Given
+0
+
+Lt. Col. Syyid Al-Massad [Bot]
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+162
+Survival Time
+2:16
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983723303164
+
+4.1002219.10933301.d930377c
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

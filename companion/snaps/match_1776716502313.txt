@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 3
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #5
+TOTAL KILLS WITH SQUAD 3
+
+[SL] RayMalu
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+675
+Survival Time
+11:48
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+1,081
+Survival Time
+11:48
+Revive Given
+0
+Respawn Given
+1
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+459
+Survival Time
+11:49
+Revive Given
+3
+Respawn Given
+0
+
+ID:16045689979026953948
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

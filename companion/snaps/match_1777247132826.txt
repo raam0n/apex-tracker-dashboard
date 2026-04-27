@@ -1,0 +1,61 @@
+
+```text
+LIVE
+SUMMARY
+2 Requeue with Squad
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #19
+TOTAL KILLS WITH SQUAD 1
+
+DarkMatter
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+118
+Survival Time
+1:30
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983577186897
+
+ramOn
+Kills / Assists / Knocks
+1/0/3
+Damage Dealt
+516
+Survival Time
+1:30
+Revive Given
+0
+Respawn Given
+0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+0/0/1
+Damage Dealt
+245
+Survival Time
+1:23
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979026953948
+
+4.1002219.10946240.0f96a3cd
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

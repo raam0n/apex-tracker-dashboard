@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #3
+TOTAL KILLS WITH SQUAD 6
+
+Morgan
+Kills / Assists / Knocks
+3/1/4
+Damage Dealt
+760
+Survival Time
+15:52
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689971820337449
+
+ramOn
+Kills / Assists / Knock
+1/1/1
+Damage Dealt
+656
+Survival Time
+15:52
+Revive Given
+1
+Respawn Given
+1
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+2/2/2
+Damage Dealt
+715
+Survival Time
+15:52
+Revive Given
+0
+Respawn Given
+1
+
+ID:16045689979026953948
+
+4.1002219.10946240:d3b411aa
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

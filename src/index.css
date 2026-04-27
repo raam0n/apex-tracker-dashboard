@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&display=swap');
+
+:root {
+  --apex-red: #FF4B3A;
+  --apex-dark: #0F0F0F;
+  --apex-gray: #1E1E1E;
+  --apex-accent: #E1E1E1;
+  --apex-gold: #FFB300;
+  --font-main: 'Outfit', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: var(--apex-dark);
+  color: var(--apex-accent);
+  font-family: var(--font-main);
+  background-image: 
+    radial-gradient(circle at 20% 30%, rgba(255, 75, 58, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(255, 75, 58, 0.05) 0%, transparent 40%);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* Base layout */
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Section styling */
+.glass-panel {
+  background: rgba(30, 30, 30, 0.6);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.profile-card {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid var(--apex-red);
+}
+
+/* Typography */
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.highlight {
+  color: var(--apex-red);
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.badge-online { background-color: #4CAF50; }
+.badge-offline { background-color: #616161; }
+.badge-inmatch { background-color: var(--apex-red); animation: pulse 2s infinite; }
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+
+/* Stats grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.stat-item {
+  text-align: center;
+  background: linear-gradient(135deg, var(--apex-gray), #252525);
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.stat-item:hover {
+  transform: translateY(-5px);
+  border-bottom-color: var(--apex-red);
+}
+
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 900;
+  display: block;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #888;
+  text-transform: uppercase;
+}
+
+/* Tabs */
+.tab-btn {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-bottom: 2px solid transparent;
+}
+
+.tab-btn:hover {
+  color: #eee;
+}
+
+.tab-btn.active {
+  color: #ff4b3a;
+  border-bottom: 2px solid #ff4b3a;
+}
+
+.live-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid rgba(255,255,255,0.1);
+}
+
+.active .live-dot {
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.8);
+}

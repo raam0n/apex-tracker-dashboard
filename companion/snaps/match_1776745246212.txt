@@ -1,0 +1,61 @@
+
+```text
+LIVE
+SUMMARY
+2 Requeue with Squad
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #6
+TOTAL KILLS WITH SQUAD 3
+
+Shadow_Broker141
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+485
+Survival Time
+10:45
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045690983432428980
+
+ramOn
+Kills / Assists / Knock
+2/1/4
+Damage Dealt
+1,069
+Survival Time
+10:45
+Revive Given
+2
+Respawn Given
+1
+
+[SL] RayMalu
+Kills / Assists / Knock
+0/1/0
+Damage Dealt
+514
+Survival Time
+10:34
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+4.1002219.10933301:a8908823
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

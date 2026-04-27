@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #18
+TOTAL KILLS WITH SQUAD 1
+
+webber
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+86
+Survival Time
+1:59
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+529
+Survival Time
+1:59
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+38
+Survival Time
+1:59
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689988584884956
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

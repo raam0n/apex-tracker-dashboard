@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+2 Requeue with Squad
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #3
+TOTAL KILLS WITH SQUAD 6
+
+[SL] RayMalu
+Kills / Assists / Knocks
+3/1/3
+Damage Dealt
+1,223
+Survival Time
+17:10
+Revive Given
+2
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+1/2/2
+Damage Dealt
+822
+Survival Time
+17:11
+Revive Given
+1
+Respawn Given
+0
+
+Galego_loko7
+Kills / Assists / Knocks
+2/1/2
+Damage Dealt
+756
+Survival Time
+17:11
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689988911304507
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

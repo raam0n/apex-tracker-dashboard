@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #5
+TOTAL KILLS WITH SQUAD 3
+
+Fuji Kengi_8]
+Kills / Assists / Knocks
+0/1/1
+Damage Dealt
+532
+Survival Time
+9:09
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979943606322
+
+ramOn
+Kills / Assists / Knock
+2/1/2
+Damage Dealt
+695
+Survival Time
+10:07
+Revive Given
+4
+Respawn Given
+0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+1/1/1
+Damage Dealt
+309
+Survival Time
+10:41
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979026953948
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

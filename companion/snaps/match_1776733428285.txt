@@ -1,0 +1,62 @@
+
+```text
+LIVE
+SUMMARY
+
+1 Queued with Party
+Matchmaking RANKED LEAGUES. 35 Players in Queue...
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #14
+TOTAL KILLS WITH SQUAD 0
+
+[SL] RayMalubi
+Kills / Assists / Knocks
+0/0/1
+Damage Dealt
+386
+Survival Time
+4:30
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+0/0/1
+Damage Dealt
+199
+Survival Time
+3:18
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+112
+Survival Time
+4:30
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045690983639607226
+
+4.1002219.10933301.28869228
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

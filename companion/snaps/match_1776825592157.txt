@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 3
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #16
+TOTAL KILLS WITH SQUAD 3
+
+webber
+Kills / Assists / Knocks
+1/2/1
+Damage Dealt
+297
+Survival Time
+3:52
+Revive Given
+1
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+2/1/3
+Damage Dealt
+359
+Survival Time
+3:52
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/2/0
+Damage Dealt
+183
+Survival Time
+3:40
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689988584884956
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

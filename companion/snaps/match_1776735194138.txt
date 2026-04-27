@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 3
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #3
+TOTAL KILLS WITH SQUAD 3
+
+[SL] RayMalubi
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+378
+Survival Time
+10:14
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+665
+Survival Time
+10:14
+Revive Given
+1
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+1/1/1
+Damage Dealt
+228
+Survival Time
+10:14
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983639607226
+
+4.1002219.10933301:aed11bdc
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

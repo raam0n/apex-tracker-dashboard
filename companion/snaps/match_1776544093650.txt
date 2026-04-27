@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #7
+TOTAL KILLS WITH SQUAD 6
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+1/1/3
+Damage Dealt
+645
+Survival Time
+11:43
+Revive Given
+0
+Respawn Given
+2
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knocks
+2/1/2
+Damage Dealt
+941
+Survival Time
+11:43
+Revive Given
+4
+Respawn Given
+0
+
+webber
+Kills / Assists / Knock
+3/1/4
+Damage Dealt
+958
+Survival Time
+11:43
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689988584884956
+```
+
+4.1002219.10906058.12da4653

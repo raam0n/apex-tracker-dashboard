@@ -1,0 +1,51 @@
+
+# MATCH SUMMARY
+
+SQUAD PLACED #2
+TOTAL KILLS WITH SQUAD 7
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+1/2/5
+Damage Dealt
+1,952
+Survival Time
+20:00
+Revive Given
+3
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knocks
+2/2/4
+Damage Dealt
+1,895
+Survival Time
+20:00
+Revive Given
+3
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+4/1/7
+Damage Dealt
+1,316
+Survival Time
+20:00
+Revive Given
+3
+Respawn Given
+0
+
+ID:16045690983639607226
+
+4.1002219.10946240:48fdd27e
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu

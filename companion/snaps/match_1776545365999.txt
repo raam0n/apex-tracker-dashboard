@@ -1,0 +1,61 @@
+
+```text
+LIVE
+SUMMARY
+
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #8
+TOTAL KILLS WITH SQUAD 5
+
+[SL] RayMalu
+Kills / Assists / Knocks
+3/1/3
+Damage Dealt
+692
+Survival Time
+10:47
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+2/2/2
+Damage Dealt
+663
+Survival Time
+10:46
+Revive Given
+0
+Respawn Given
+0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+0/1/1
+Damage Dealt
+373
+Survival Time
+10:46
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979026953948
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

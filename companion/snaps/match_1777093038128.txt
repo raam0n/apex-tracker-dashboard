@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #18
+TOTAL KILLS WITH SQUAD 2
+
+Deftones
+Kills / Assists / Kn
+0/1/0
+Damage Dealt
+133
+Survival Time
+2:23
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+463
+Survival Time
+2:30
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+158
+Survival Time
+2:30
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689973029321368
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

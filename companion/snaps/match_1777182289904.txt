@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #19
+TOTAL KILLS WITH SQUAD 2
+
+[SL] RayMalu
+Kills / Assists / Knocks
+2/0/3
+Damage Dealt
+572
+Survival Time
+2:17
+Revive Given
+0
+Respawn Given
+0
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Knocks
+0/0/1
+Damage Dealt
+150
+Survival Time
+2:15
+Revive Given
+0
+Respawn Given
+0
+ID:16045689988584884956
+
+webber
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+0
+Survival Time
+0:49
+Revive Given
+0
+Respawn Given
+0
+ID:16045689988584884956
+
+4:1002219.10946240:40e1f075
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

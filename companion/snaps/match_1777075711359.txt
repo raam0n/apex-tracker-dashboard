@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 3
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #5
+TOTAL KILLS WITH SQUAD 5
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+2/2/2
+Damage Dealt
+526
+Survival Time
+11:54
+Revive Given
+0
+Respawn Given
+2
+
+ramOn
+Kills / Assists / Knocks
+3/1/6
+Damage Dealt
+504
+Survival Time
+10:49
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/2/0
+Damage Dealt
+572
+Survival Time
+12:04
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

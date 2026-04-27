@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #11
+TOTAL KILLS WITH SQUAD 3
+
+Patierno
+Kills / Assists / Knocks
+2/0/2
+Damage Dealt
+463
+Survival Time
+7:31
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+0/1/0
+Damage Dealt
+348
+Survival Time
+6:28
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+273
+Survival Time
+6:32
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689983318805115
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

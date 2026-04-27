@@ -1,0 +1,49 @@
+
+# SQUAD ELIMINATED
+
+SQUAD PLACED #5
+TOTAL KILLS WITH SQUAD 4
+
+[SL] RayMalubi
+Kills / Assists / Knocks
+0/1/3
+Damage Dealt
+630
+Survival Time
+15:45
+Revive Given
+1
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knocks
+4/0/4
+Damage Dealt
+1,291
+Survival Time
+15:45
+Revive Given
+3
+Respawn Given
+3
+
+Invisible Drax
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+368
+Survival Time
+15:45
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu

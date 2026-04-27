@@ -1,0 +1,61 @@
+
+```text
+LIVE
+SUMMARY
+2 Requeue with Squad
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #20
+TOTAL KILLS WITH SQUAD 0
+
+BRLA YOUNGSTA
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+0
+Survival Time
+0:45
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983583722801
+
+ramOn
+Kills / Assists / Kn
+0/0/1
+Damage Dealt
+176
+Survival Time
+0:45
+Revive Given
+0
+Respawn Given
+0
+
+[SL] RayMalu
+Kills / Assists / Kn
+0/0/2
+Damage Dealt
+276
+Survival Time
+0:45
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+4.1002219.10933301.0375730b
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

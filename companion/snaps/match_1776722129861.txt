@@ -1,0 +1,58 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #17
+TOTAL KILLS WITH SQUAD 0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+235
+Survival Time
+1:31
+Revive Given
+0
+Respawn Given
+0
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knock
+0/0/0
+Damage Dealt
+107
+Survival Time
+1:38
+Revive Given
+0
+Respawn Given
+0
+ID:16045690983723303164
+
+Lt. Col. Syyid Al-Massed [B]
+Kills / Assists / K
+0/0/0
+Damage Dealt
+60
+Survival Time
+1:33
+Revive Given
+0
+Respawn Given
+0
+ID:16045690983723303164
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

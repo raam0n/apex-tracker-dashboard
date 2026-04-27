@@ -1,0 +1,58 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #7
+TOTAL KILLS WITH SQUAD 4
+
+jogglez
+Kills / Assists / Knocks
+0/2/0
+Damage Dealt
+375
+Survival Time
+12:26
+Revive Given
+0
+Respawn Given
+0
+ID:16045689968193071701
+
+ramOn
+Kills / Assists / Knocks
+3/1/3
+Damage Dealt
+476
+Survival Time
+13:03
+Revive Given
+2
+Respawn Given
+0
+ID:16045690983639607226
+
+Invisible Drax
+Kills / Assists / Knocks
+1/2/1
+Damage Dealt
+101
+Survival Time
+13:39
+Revive Given
+1
+Respawn Given
+0
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

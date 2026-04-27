@@ -1,0 +1,60 @@
+
+```text
+LIVE
+SUMMARY
+1 Queued with Party
+Matchmaking RANKED LEAGUES...
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #13
+TOTAL KILLS WITH SQUAD 0
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+212
+Survival Time
+6:27
+Revive Given
+0
+Respawn Given
+0
+
+ramOn
+Kills / Assists / Knock
+0/0/1
+Damage Dealt
+376
+Survival Time
+6:26
+Revive Given
+0
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+0/0/0
+Damage Dealt
+160
+Survival Time
+6:27
+Revive Given
+3
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ID:16045690983639607226
+
+4:1002219:10946240:1029ba46
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

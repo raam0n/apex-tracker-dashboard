@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+1 Requeue Party of 2
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #20
+TOTAL KILLS WITH SQUAD 0
+
+[SL] RayMalu
+Kills / Assists / Known
+0/0/0
+Damage Dealt
+87
+Survival Time
+1:26
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979824108792
+
+ramOn
+Kills / Assists / Known
+0/0/1
+Damage Dealt
+37
+Survival Time
+1:26
+Revive Given
+1
+Respawn Given
+0
+
+becoloco
+Kills / Assists / Known
+0/0/0
+Damage Dealt
+50
+Survival Time
+1:03
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689969429003807
+```
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu

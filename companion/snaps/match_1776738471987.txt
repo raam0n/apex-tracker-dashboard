@@ -1,0 +1,59 @@
+
+```text
+LIVE
+SUMMARY
+Party Leader Decides Requeue
+
+DEATH RECAP
+SUMMARY
+EXPERIENCE
+PASSES
+
+SQUAD ELIMINATED
+SQUAD PLACED #15
+TOTAL KILLS WITH SQUAD 3
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+1/0/1
+Damage Dealt
+112
+Survival Time
+2:15
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knock
+1/1/2
+Damage Dealt
+517
+Survival Time
+2:15
+Revive Given
+2
+Respawn Given
+0
+
+Invisible Drax
+Kills / Assists / Knocks
+1/0/2
+Damage Dealt
+238
+Survival Time
+2:15
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045690983639607226
+
+SPACE Proceed
+TAB Return to Lobby
+ESC Open Menu
+```

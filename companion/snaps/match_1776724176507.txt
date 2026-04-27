@@ -1,0 +1,47 @@
+
+# MATCH SUMMARY
+
+SQUAD PLACED #2
+TOTAL KILLS WITH SQUAD 11
+
+El amigable tio Pencil
+Kills / Assists / Knocks
+4/2/4
+Damage Dealt
+937
+Survival Time
+16:04
+Revive Given
+1
+Respawn Given
+0
+
+ID:16045689979026953948
+
+ramOn
+Kills / Assists / Knocks
+3/4/3
+Damage Dealt
+1,014
+Survival Time
+16:04
+Revive Given
+3
+Respawn Given
+0
+
+Lt. Col. Syyid Al-Massed [Bot]
+Kills / Assists / Knocks
+4/6/5
+Damage Dealt
+1,278
+Survival Time
+16:04
+Revive Given
+0
+Respawn Given
+0
+
+ID:16045690983723303164
+
+4.1002219.10933301.ba71c05d
