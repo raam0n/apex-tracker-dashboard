@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-29T06:35:35.092Z",
+    "image": "match_1777444531356.jpg",
+    "rawText": "\r\n# MATCH SUMMARY\r\n\r\nSQUAD PLACED #2\r\nTOTAL KILLS WITH SQUAD 10\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n2/6/4\r\nDamage Dealt\r\n1,910\r\nSurvival Time\r\n15:37\r\nRevive Given\r\n2\r\nRespawn Given\r\n1\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n6/0/6\r\nDamage Dealt\r\n1,156\r\nSurvival Time\r\n15:37\r\nRevive Given\r\n1\r\nRespawn Given\r\n1\r\n\r\n[Latte]\r\nKills / Assists / Knocks\r\n2/1/2\r\nDamage Dealt\r\n727\r\nSurvival Time\r\n15:37\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nID:16045689971781342809\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu",
+    "results": {
+      "placement": "2",
+      "totalKills": "10",
+      "totalDamage": "3793"
+    },
+    "squad": [
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "2",
+        "assists": "6",
+        "knocks": "4",
+        "damage": "1910",
+        "survivalTime": "15:37",
+        "revives": "2",
+        "respawns": "1"
+      },
+      {
+        "name": "ramOn",
+        "kills": "6",
+        "assists": "0",
+        "knocks": "6",
+        "damage": "1156",
+        "survivalTime": "15:37",
+        "revives": "1",
+        "respawns": "1"
+      },
+      {
+        "name": "[Latte]",
+        "kills": "2",
+        "assists": "1",
+        "knocks": "2",
+        "damage": "727",
+        "survivalTime": "15:37",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-29T06:16:37.681Z",
     "image": "match_1777443393754.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #9\r\nTOTAL KILLS WITH SQUAD 3\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n0/1/0\r\nDamage Dealt\r\n451\r\nSurvival Time\r\n7:43\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Knock\r\n2/0/2\r\nDamage Dealt\r\n218\r\nSurvival Time\r\n7:43\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\nID:16045689978095016299\r\n\r\nYtuo7009\r\nKills / Assists / Knock\r\n1/1/1\r\nDamage Dealt\r\n455\r\nSurvival Time\r\n6:49\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689978095016299\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
