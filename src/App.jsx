@@ -606,6 +606,7 @@ function App() {
                   <Tooltip 
                     contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }}
                     itemStyle={{ color: '#fff' }}
+                    labelStyle={{ color: '#fff' }}
                   />
                   <Legend />
                   <Area type="monotone" dataKey="avgDamage" name="Avg Damage (Window 10)" stroke="#ff4b3a" strokeWidth={3} fillOpacity={1} fill="url(#colorDamage)" />
@@ -630,6 +631,8 @@ function App() {
                     <YAxis reversed domain={[1, 20]} stroke="#888" ticks={[1, 5, 10, 15, 20]} />
                     <Tooltip 
                       contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }}
+                      itemStyle={{ color: '#fff' }}
+                      labelStyle={{ color: '#fff' }}
                     />
                     <Line type="stepAfter" dataKey="placement" name="Rank" stroke="#FFD700" strokeWidth={2} dot={{ r: 3, fill: '#FFD700' }} />
                   </LineChart>
@@ -650,6 +653,8 @@ function App() {
                     <YAxis stroke="#888" />
                     <Tooltip 
                       contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }}
+                      itemStyle={{ color: '#fff' }}
+                      labelStyle={{ color: '#fff' }}
                     />
                     <Line type="monotone" dataKey="avgKills" name="Avg Kills" stroke="#4CAF50" strokeWidth={3} dot={false} />
                   </LineChart>
@@ -672,7 +677,7 @@ function App() {
                   <BarChart data={analytics?.dayStats}>
                     <XAxis dataKey="name" stroke="#888" />
                     <YAxis stroke="#888" />
-                    <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333' }} />
+                    <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                     <Bar dataKey="avgDamage" name="Avg Damage">
                       {analytics?.dayStats.map((entry, index) => (
                         <Cell key={`cell-${index}`} fill={entry.avgDamage > 1000 ? '#4CAF50' : entry.avgDamage > 500 ? '#4dd0e1' : '#555'} />
@@ -693,7 +698,7 @@ function App() {
                   <BarChart data={analytics?.hourlyStats}>
                     <XAxis dataKey="hour" stroke="#888" />
                     <YAxis stroke="#888" />
-                    <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333' }} />
+                    <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                     <Bar dataKey="avgDamage" name="Avg Damage" fill="#ff4b3a" radius={[4, 4, 0, 0]} />
                   </BarChart>
                 </ResponsiveContainer>
@@ -755,6 +760,8 @@ function App() {
                         <YAxis stroke="#888" />
                         <Tooltip 
                           contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }}
+                          itemStyle={{ color: '#fff' }}
+                          labelStyle={{ color: '#fff' }}
                           labelFormatter={(label, payload) => payload[0]?.payload?.fullRange || label}
                         />
                         <Bar dataKey="count" radius={[4, 4, 0, 0]}>
@@ -783,7 +790,7 @@ function App() {
                             <Cell key={`cell-${index}`} fill={entry.color} />
                           ))}
                         </Pie>
-                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} />
+                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                         <Legend verticalAlign="bottom" height={36}/>
                       </PieChart>
                     </ResponsiveContainer>
@@ -804,7 +811,7 @@ function App() {
                         <CartesianGrid strokeDasharray="3 3" stroke="#333" vertical={false} />
                         <XAxis dataKey="kills" stroke="#888" />
                         <YAxis stroke="#888" />
-                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} />
+                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                         <Bar dataKey="count" radius={[4, 4, 0, 0]}>
                           {breakdown?.killsDistribution.map((entry, index) => (
                             <Cell key={`cell-${index}`} fill={entry.color} />
@@ -831,7 +838,7 @@ function App() {
                             <Cell key={`cell-${index}`} fill={entry.color} />
                           ))}
                         </Pie>
-                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} />
+                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                         <Legend verticalAlign="bottom" height={36}/>
                       </PieChart>
                     </ResponsiveContainer>
@@ -849,7 +856,7 @@ function App() {
                         <CartesianGrid strokeDasharray="3 3" stroke="#333" vertical={false} />
                         <XAxis dataKey="placement" stroke="#888" interval={0} fontSize={10} />
                         <YAxis stroke="#888" />
-                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} />
+                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                         <Bar dataKey="count" radius={[4, 4, 0, 0]}>
                           {breakdown?.placementDistribution.map((entry, index) => (
                             <Cell key={`cell-${index}`} fill={entry.color} />
@@ -876,7 +883,7 @@ function App() {
                             <Cell key={`cell-${index}`} fill={entry.color} />
                           ))}
                         </Pie>
-                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} />
+                        <Tooltip contentStyle={{ backgroundColor: '#1a1a1a', border: '1px solid #333', borderRadius: '8px' }} itemStyle={{ color: '#fff' }} labelStyle={{ color: '#fff' }} />
                         <Legend verticalAlign="bottom" height={36}/>
                       </PieChart>
                     </ResponsiveContainer>

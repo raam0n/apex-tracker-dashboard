@@ -198,6 +198,28 @@ const processSnap = async (imagePath) => {
             squad: squad
         };
 
+        // --- PREVENCIÓN DE DUPLICADOS ---
+        const isDuplicate = (m1, m2) => {
+            if (!m1 || !m2) return false;
+            if (m1.results.placement !== m2.results.placement ||
+                m1.results.totalKills !== m2.results.totalKills ||
+                m1.results.totalDamage !== m2.results.totalDamage) return false;
+            if (!m1.squad || !m2.squad || m1.squad.length !== m2.squad.length) return false;
+            for (let i = 0; i < m1.squad.length; i++) {
+                const p1 = m1.squad[i], p2 = m2.squad[i];
+                if (p1.name !== p2.name || p1.kills !== p2.kills || p1.assists !== p2.assists ||
+                    p1.knocks !== p2.knocks || p1.damage !== p2.damage || p1.survivalTime !== p2.survivalTime) {
+                    return false;
+                }
+            }
+            return true;
+        };
+
+        if (matchHistory.length > 0 && isDuplicate(snapshot, matchHistory[0])) {
+            console.log('\n⚠️ DUPLICADO DETECTADO: Se ignorará esta captura porque los stats son idénticos a la partida anterior.\n');
+            return;
+        }
+
         matchHistory.unshift(snapshot);
         fs.writeFileSync(HISTORY_FILE, JSON.stringify(matchHistory, null, 2));
 
