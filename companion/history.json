@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-29T06:07:03.256Z",
+    "image": "match_1777442819225.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #5\r\nTOTAL KILLS WITH SQUAD 8\r\n\r\nPeasant Bob\r\nKills / Assists / Knock\r\n1/2/1\r\nDamage Dealt\r\n1,124\r\nSurvival Time\r\n14:21\r\nRevive Given\r\n1\r\nRespawn Given\r\n3\r\n\r\nramOn\r\nKills / Assists / Knock\r\n3/0/4\r\nDamage Dealt\r\n848\r\nSurvival Time\r\n15:12\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n4/3/5\r\nDamage Dealt\r\n2,029\r\nSurvival Time\r\n15:13\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689972812614231\r\n\r\nID:16045689979824108792\r\n```\r\n\r\n4.1002219.10946240.767090ae\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "5",
+      "totalKills": "8",
+      "totalDamage": "4001"
+    },
+    "squad": [
+      {
+        "name": "Peasant Bob",
+        "kills": "1",
+        "assists": "2",
+        "knocks": "1",
+        "damage": "1124",
+        "survivalTime": "14:21",
+        "revives": "1",
+        "respawns": "3"
+      },
+      {
+        "name": "ramOn",
+        "kills": "3",
+        "assists": "0",
+        "knocks": "4",
+        "damage": "848",
+        "survivalTime": "15:12",
+        "revives": "1",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "4",
+        "assists": "3",
+        "knocks": "5",
+        "damage": "2029",
+        "survivalTime": "15:13",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-29T05:49:33.419Z",
     "image": "match_1777441769313.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #10\r\nTOTAL KILLS WITH SQUAD 3\r\n\r\nPeasant Bob\r\nKills / Assists / Knocks\r\n2/0/2\r\nDamage Dealt\r\n699\r\nSurvival Time\r\n10:19\r\nRevive Given\r\n0\r\nRespawn Given\r\n1\r\nID:16045689972812614231\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n436\r\nSurvival Time\r\n10:52\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n1/0/1\r\nDamage Dealt\r\n800\r\nSurvival Time\r\n9:15\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n```\r\n\r\n4.1002219.10946240.c9026093\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
