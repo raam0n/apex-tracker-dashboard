@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-29T05:49:33.419Z",
+    "image": "match_1777441769313.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #10\r\nTOTAL KILLS WITH SQUAD 3\r\n\r\nPeasant Bob\r\nKills / Assists / Knocks\r\n2/0/2\r\nDamage Dealt\r\n699\r\nSurvival Time\r\n10:19\r\nRevive Given\r\n0\r\nRespawn Given\r\n1\r\nID:16045689972812614231\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n436\r\nSurvival Time\r\n10:52\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n1/0/1\r\nDamage Dealt\r\n800\r\nSurvival Time\r\n9:15\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n```\r\n\r\n4.1002219.10946240.c9026093\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "10",
+      "totalKills": "3",
+      "totalDamage": "1935"
+    },
+    "squad": [
+      {
+        "name": "Peasant Bob",
+        "kills": "2",
+        "assists": "0",
+        "knocks": "2",
+        "damage": "699",
+        "survivalTime": "10:19",
+        "revives": "0",
+        "respawns": "1"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "1",
+        "knocks": "0",
+        "damage": "436",
+        "survivalTime": "10:52",
+        "revives": "1",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "1",
+        "assists": "0",
+        "knocks": "1",
+        "damage": "800",
+        "survivalTime": "9:15",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-29T05:36:40.974Z",
     "image": "match_1777440997172.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nParty not ready\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #17\r\nTOTAL KILLS WITH SQUAD 1\r\n\r\nPeasant Bob\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n171\r\nSurvival Time\r\n2:59\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689972812614231\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n1/0/1\r\nDamage Dealt\r\n167\r\nSurvival Time\r\n2:59\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n420\r\nSurvival Time\r\n2:59\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\n4.1002219.10946240.edca2753\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
