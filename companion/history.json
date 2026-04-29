@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-29T06:51:29.615Z",
+    "image": "match_1777445485746.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n2 Requeue with Squad\r\n1 Requeue Party of 2\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #15\r\nTOTAL KILLS WITH SQUAD 6\r\n\r\nSwizzzz\r\nKills / Assists / Knock\r\n5/1/6\r\nDamage Dealt\r\n864\r\nSurvival Time\r\n3:48\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knock\r\n1/4/1\r\nDamage Dealt\r\n430\r\nSurvival Time\r\n3:48\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n0/4/0\r\nDamage Dealt\r\n327\r\nSurvival Time\r\n3:47\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\nID:16045689974359315029\r\n\r\nID:16045689979824108792\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "15",
+      "totalKills": "6",
+      "totalDamage": "1621"
+    },
+    "squad": [
+      {
+        "name": "Swizzzz",
+        "kills": "5",
+        "assists": "1",
+        "knocks": "6",
+        "damage": "864",
+        "survivalTime": "3:48",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "1",
+        "assists": "4",
+        "knocks": "1",
+        "damage": "430",
+        "survivalTime": "3:48",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "0",
+        "assists": "4",
+        "knocks": "0",
+        "damage": "327",
+        "survivalTime": "3:47",
+        "revives": "1",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-29T06:46:10.948Z",
     "image": "match_1777445167474.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Requeue Party of 2\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #19\r\nTOTAL KILLS WITH SQUAD 0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n24\r\nSurvival Time\r\n1:22\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/0/1\r\nDamage Dealt\r\n209\r\nSurvival Time\r\n1:25\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\n[FAQ] me\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n51\r\nSurvival Time\r\n1:26\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689977250525972\r\n```\r\n\r\nSPACE Proceed TAB Return to Lobby ESC Open Menu",
