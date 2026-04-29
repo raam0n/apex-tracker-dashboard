@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-29T04:07:55.692Z",
+    "image": "match_1777435670315.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES. 42 Players in Queue...\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #18\r\nTOTAL KILLS WITH SQUAD 0\r\n\r\nMxnz.Josue\r\nKills / Assists / Knoc\r\n0/0/0\r\nDamage Dealt\r\n114\r\nSurvival Time\r\n1:37\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knoc\r\n0/0/1\r\nDamage Dealt\r\n278\r\nSurvival Time\r\n1:36\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knoc\r\n0/0/2\r\nDamage Dealt\r\n281\r\nSurvival Time\r\n1:36\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689970931896690\r\n\r\nID:16045689979824108792\r\n\r\n4.1002219.10946240.ba64f560\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "18",
+      "totalKills": "0",
+      "totalDamage": "673"
+    },
+    "squad": [
+      {
+        "name": "Mxnz.Josue",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "114",
+        "survivalTime": "1:37",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "1",
+        "damage": "278",
+        "survivalTime": "1:36",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "2",
+        "damage": "281",
+        "survivalTime": "1:36",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-28T00:43:55.115Z",
     "image": "match_1777337031190.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Requeue Party of 3\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #5\r\nTOTAL KILLS WITH SQUAD 4\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n0/2/1\r\nDamage Dealt\r\n459\r\nSurvival Time\r\n10:08\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979026953948\r\n\r\nramOn\r\nKills / Assists / Knock\r\n1/0/1\r\nDamage Dealt\r\n403\r\nSurvival Time\r\n9:25\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nwebber\r\nKills / Assists / Knock\r\n3/0/3\r\nDamage Dealt\r\n655\r\nSurvival Time\r\n13:19\r\nRevive Given\r\n1\r\nRespawn Given\r\n1\r\n\r\nID:16045689988584884956\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
