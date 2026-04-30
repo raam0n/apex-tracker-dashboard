@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-30T05:40:34.670Z",
+    "image": "match_1777527631125.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #11\r\nTOTAL KILLS WITH SQUAD 0\r\n\r\n[SL] RayMalu\r\nKills / Assists / Known\r\n0/0/0\r\nDamage Dealt\r\n351\r\nSurvival Time\r\n6:49\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Known\r\n0/0/0\r\nDamage Dealt\r\n48\r\nSurvival Time\r\n3:23\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689970448712600\r\n\r\ndaannnjb1\r\nKills / Assists / Known\r\n0/0/1\r\nDamage Dealt\r\n414\r\nSurvival Time\r\n6:49\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\nID:16045689970448712600\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "11",
+      "totalKills": "0",
+      "totalDamage": "813"
+    },
+    "squad": [
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "351",
+        "survivalTime": "6:49",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "48",
+        "survivalTime": "3:23",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "daannnjb1",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "1",
+        "damage": "414",
+        "survivalTime": "6:49",
+        "revives": "1",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-30T05:28:09.405Z",
     "image": "match_1777526884552.jpg",
     "rawText": "\r\nEXIT OR WAIT FOR REQUEUE\r\nYour Party Leader can requeue the party.\r\nIf you exit to lobby at any time, your whole party will also have\r\nto return to lobby to queue for another match.\r\n\r\nUP NEXT\r\nRANKED - Olympus\r\n\r\nSoulDragon\r\nramOn\r\n[SL] RayMalubi\r\n\r\nHOLD SPACE EXIT TO LOBBY\r\n\r\nESC Minimize",
