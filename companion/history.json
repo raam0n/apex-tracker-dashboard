@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-30T05:28:09.405Z",
+    "image": "match_1777526884552.jpg",
+    "rawText": "\r\nEXIT OR WAIT FOR REQUEUE\r\nYour Party Leader can requeue the party.\r\nIf you exit to lobby at any time, your whole party will also have\r\nto return to lobby to queue for another match.\r\n\r\nUP NEXT\r\nRANKED - Olympus\r\n\r\nSoulDragon\r\nramOn\r\n[SL] RayMalubi\r\n\r\nHOLD SPACE EXIT TO LOBBY\r\n\r\nESC Minimize",
+    "results": {
+      "placement": "??",
+      "totalKills": "0",
+      "totalDamage": "0"
+    },
+    "squad": [
+      {
+        "name": "Legend",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "0",
+        "survivalTime": "0:00",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "Legend",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "0",
+        "survivalTime": "0:00",
+        "revives": "0",
+        "respawns": "0"
+      },
+      {
+        "name": "Legend",
+        "kills": "0",
+        "assists": "0",
+        "knocks": "0",
+        "damage": "0",
+        "survivalTime": "0:00",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-30T05:20:08.712Z",
     "image": "match_1777526405046.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #4\r\nTOTAL KILLS WITH SQUAD 6\r\n\r\n[GOON] Happy African\r\nKills / Assists / Knocks\r\n3/2/4\r\nDamage Dealt\r\n1,639\r\nSurvival Time\r\n15:07\r\nRevive Given\r\n0\r\nRespawn Given\r\n4\r\nID:16045689980215794572\r\n\r\nramOn\r\nKills / Assists / Knock\r\n2/1/3\r\nDamage Dealt\r\n853\r\nSurvival Time\r\n15:07\r\nRevive Given\r\n3\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n1/2/4\r\nDamage Dealt\r\n1,111\r\nSurvival Time\r\n15:06\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n4:1002219.10946240:46652733\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
