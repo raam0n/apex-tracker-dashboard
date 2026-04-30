@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-30T04:32:52.617Z",
+    "image": "match_1777523566648.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nParty Leader Decides Requeue\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #4\r\nTOTAL KILLS WITH SQUAD 9\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n2/4/3\r\nDamage Dealt\r\n757\r\nSurvival Time\r\n17:20\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n0/5/0\r\nDamage Dealt\r\n737\r\nSurvival Time\r\n17:34\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\nID:16045689979026953948\r\n\r\nEl amigable tio Pencil\r\nKills / Assists / Knocks\r\n7/1/7\r\nDamage Dealt\r\n1,173\r\nSurvival Time\r\n17:24\r\nRevive Given\r\n2\r\nRespawn Given\r\n0\r\nID:16045689979026953948\r\n\r\n4.1002219.10946240.430a0e39\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "4",
+      "totalKills": "9",
+      "totalDamage": "2667"
+    },
+    "squad": [
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "2",
+        "assists": "4",
+        "knocks": "3",
+        "damage": "757",
+        "survivalTime": "17:20",
+        "revives": "1",
+        "respawns": "0"
+      },
+      {
+        "name": "ramOn",
+        "kills": "0",
+        "assists": "5",
+        "knocks": "0",
+        "damage": "737",
+        "survivalTime": "17:34",
+        "revives": "1",
+        "respawns": "0"
+      },
+      {
+        "name": "El amigable tio Pencil",
+        "kills": "7",
+        "assists": "1",
+        "knocks": "7",
+        "damage": "1173",
+        "survivalTime": "17:24",
+        "revives": "2",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-29T07:02:01.131Z",
     "image": "match_1777446116917.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\nRequeue Unavailable: Party member(s) in lobby\r\n\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #12\r\nTOTAL KILLS WITH SQUAD 3\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knocks\r\n1/2/1\r\nDamage Dealt\r\n496\r\nSurvival Time\r\n8:08\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nramOn\r\nKills / Assists / Knocks\r\n2/0/2\r\nDamage Dealt\r\n239\r\nSurvival Time\r\n8:08\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\ncatl49c\r\nKills / Assists / Knocks\r\n0/1/0\r\nDamage Dealt\r\n91\r\nSurvival Time\r\n8:07\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\nID:16045689974759489790\r\n\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
