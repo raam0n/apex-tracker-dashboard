@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-04-30T05:20:08.712Z",
+    "image": "match_1777526405046.jpg",
+    "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #4\r\nTOTAL KILLS WITH SQUAD 6\r\n\r\n[GOON] Happy African\r\nKills / Assists / Knocks\r\n3/2/4\r\nDamage Dealt\r\n1,639\r\nSurvival Time\r\n15:07\r\nRevive Given\r\n0\r\nRespawn Given\r\n4\r\nID:16045689980215794572\r\n\r\nramOn\r\nKills / Assists / Knock\r\n2/1/3\r\nDamage Dealt\r\n853\r\nSurvival Time\r\n15:07\r\nRevive Given\r\n3\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n1/2/4\r\nDamage Dealt\r\n1,111\r\nSurvival Time\r\n15:06\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\nID:16045689979824108792\r\n\r\n4:1002219.10946240:46652733\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
+    "results": {
+      "placement": "4",
+      "totalKills": "6",
+      "totalDamage": "3603"
+    },
+    "squad": [
+      {
+        "name": "[GOON] Happy African",
+        "kills": "3",
+        "assists": "2",
+        "knocks": "4",
+        "damage": "1639",
+        "survivalTime": "15:07",
+        "revives": "0",
+        "respawns": "4"
+      },
+      {
+        "name": "ramOn",
+        "kills": "2",
+        "assists": "1",
+        "knocks": "3",
+        "damage": "853",
+        "survivalTime": "15:07",
+        "revives": "3",
+        "respawns": "0"
+      },
+      {
+        "name": "[SL] RayMalubi",
+        "kills": "1",
+        "assists": "2",
+        "knocks": "4",
+        "damage": "1111",
+        "survivalTime": "15:06",
+        "revives": "0",
+        "respawns": "0"
+      }
+    ]
+  },
+  {
     "timestamp": "2026-04-30T04:53:30.534Z",
     "image": "match_1777524806922.jpg",
     "rawText": "\r\n```text\r\nLIVE\r\nSUMMARY\r\n1 Queued with Party\r\nMatchmaking RANKED LEAGUES...\r\nDEATH RECAP\r\nSUMMARY\r\nEXPERIENCE\r\nPASSES\r\n\r\nSQUAD ELIMINATED\r\nSQUAD PLACED #18\r\nTOTAL KILLS WITH SQUAD 1\r\n\r\nJay\r\nKills / Assists / Knocks\r\n0/0/0\r\nDamage Dealt\r\n134\r\nSurvival Time\r\n2:12\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689967693924935\r\n\r\nramOn\r\nKills / Assists / Knock\r\n1/0/1\r\nDamage Dealt\r\n337\r\nSurvival Time\r\n1:56\r\nRevive Given\r\n1\r\nRespawn Given\r\n0\r\n\r\n[SL] RayMalubi\r\nKills / Assists / Knock\r\n0/0/0\r\nDamage Dealt\r\n48\r\nSurvival Time\r\n2:13\r\nRevive Given\r\n0\r\nRespawn Given\r\n0\r\n\r\nID:16045689979824108792\r\n\r\n4.1002219.10946240.338bf889\r\nSPACE Proceed\r\nTAB Return to Lobby\r\nESC Open Menu\r\n```",
